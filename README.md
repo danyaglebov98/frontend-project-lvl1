@@ -3,5 +3,5 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
-[![Actions Status](https://github.com/danyaglebov98/frontend-project-lvl1/workflows/super-linter/badge.svg)](https://github.com/danyaglebov98/frontend-project-lvl1/actions)
+[![Actions Status](https://github.com/danyaglebov98/frontend-project-lvl1/workflows/Super-Linter/badge.svg)](https://github.com/danyaglebov98/frontend-project-lvl1/actions)
 
