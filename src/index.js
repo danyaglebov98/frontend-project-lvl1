@@ -9,7 +9,7 @@ const architectureGame = (description, question, findAnswer, array) => {
     console.log(`Question: ${question(array[i])}`);
     const yourAnswer = readlineSync.question('Your Answer: ');
     if (answer !== yourAnswer) {
-      return console.log(`${yourAnswer} is wrong answer ;(. Correct answer was ${answer}.\nLet's try again, ${name}!`);
+      return console.log(`'${yourAnswer}' is wrong answer ;(. Correct answer was '${answer}'.\nLet's try again, ${name}!`);
     }
     console.log('Correct!');
   }
