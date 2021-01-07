@@ -11,7 +11,7 @@ const primality = (n) => {
 };
 
 const randomize = () => _.random(100);
-const description = 'Answer "yes" if the number is even, otherwise answer "no".';
+const description = '"yes" if given number is prime. Otherwise answer "no"';
 const question = (number) => `${number}`;
 const answer = (number) => (primality(number) ? 'yes' : 'no');
 const array = [...new Array(3)].map(() => randomize());
