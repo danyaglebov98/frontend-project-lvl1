@@ -5,6 +5,10 @@
 
 [![Actions Status](https://github.com/danyaglebov98/frontend-project-lvl1/workflows/Super-Linter/badge.svg)](https://github.com/danyaglebov98/frontend-project-lvl1/actions)
 
-Example:
+Brain-Even GAME
 
 [![asciicast](https://asciinema.org/a/3NON8YgfNNhTNdTdz8nGi9qZz.svg)](https://asciinema.org/a/3NON8YgfNNhTNdTdz8nGi9qZz)
+
+Brain-Calc GAME
+
+[![asciicast](https://asciinema.org/a/uvABnevjJsRbNI30nfg7ugWMJ.svg)](https://asciinema.org/a/uvABnevjJsRbNI30nfg7ugWMJ)
